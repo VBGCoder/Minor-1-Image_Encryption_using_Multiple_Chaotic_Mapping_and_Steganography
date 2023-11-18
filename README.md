@@ -6,9 +6,10 @@
 &nbsp;Since traditional encryption algorithms like AES and RSA  does not work well in cases where multi-dimensional data is used, different mathematical concepts and theories have been used in algorithms that are specific to image. This approach makes it easy and reliable to encrypt an image with single or multiple colour channels. ​​
 Using two images, target image and a base image of same size, manipulation of pixels results in an ambiguous image.​</p>
 
-<h2>Technical Concepts used​</h2>
-<p>​
-**Chaos Theory:-** ​
+<h2>Technical Concepts used​</h2><p>
+  
+  ​
+**Chaos Theory:-**
 Chaos theory is an interdisciplinary scientific theory and branch of physics.​ It focuses on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions and were once thought to have completely random states of disorder and irregularities.​
 
 **Henon Map:​-**
