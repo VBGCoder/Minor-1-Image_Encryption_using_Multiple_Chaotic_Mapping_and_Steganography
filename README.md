@@ -21,9 +21,9 @@ Chaos theory is an interdisciplinary scientific theory and branch of physics.​
 **Arnold Cat Map:​-**
 ​Arnold Cat Map is a chaotic map defined for square matrices used to randomize the pixel positions in an image. ​By using its two equations, new transformed values of each pixel is substituted in the image, which can only be recovered using same parameters in the inverse transformations.​ ACM works by scrambling a pixel’s position without changing the value of the pixel itself. This can be done using the following formula ​
 
-For More Information Check-Out these links:- 
-PPT:- https://upesstd-my.sharepoint.com/:p:/g/personal/500084400_stu_upes_ac_in/EVKI8HreEWlOiqsFvYReqWkBauF9YbzoG6ENlScsnec6uw?rtime=nUiSiQjo20g
-SRS:- https://docs.google.com/document/d/1bk6WR6xbsAkXX1f4qO_20iSRGHWMqWJm/edit
+For More Information Check-Out these links:- <br>
+<li>PPT:- https://upesstd-my.sharepoint.com/:p:/g/personal/500084400_stu_upes_ac_in/EVKI8HreEWlOiqsFvYReqWkBauF9YbzoG6ENlScsnec6uw?rtime=nUiSiQjo20g
+<li>SRS:- https://docs.google.com/document/d/1bk6WR6xbsAkXX1f4qO_20iSRGHWMqWJm/edit
 
 
 ​</p>
