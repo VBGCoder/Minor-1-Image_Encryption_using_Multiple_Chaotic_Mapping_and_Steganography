@@ -7,9 +7,7 @@
 Using two images, target image and a base image of same size, manipulation of pixels results in an ambiguous image.​</p>
 
 <h2>Technical Concepts used​</h2>
-
 <p>​
-
 **Chaos Theory:-** ​
 Chaos theory is an interdisciplinary scientific theory and branch of physics.​ It focuses on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions and were once thought to have completely random states of disorder and irregularities.​
 
