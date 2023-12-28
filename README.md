@@ -23,7 +23,7 @@ Chaos theory is an interdisciplinary scientific theory and branch of physics.​
 
 For More Information Check-Out these links:- <br>
 <li>PPT:- https://upesstd-my.sharepoint.com/:p:/g/personal/500084400_stu_upes_ac_in/EVKI8HreEWlOiqsFvYReqWkBauF9YbzoG6ENlScsnec6uw?rtime=nUiSiQjo20g
-<li>Report:- https://docs.google.com/document/d/1YlsRi_bbdS439r6E8rH6x1igezpYBgMmGMZfLbrn2BQ/edit
+<li>Report:- https://docs.google.com/document/d/1YlsRi_bbdS439r6E8rH6x1igezpYBgMmGMZfLbrn2BQ
 
 
 ​</p>
